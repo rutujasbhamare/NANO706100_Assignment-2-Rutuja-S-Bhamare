@@ -33,6 +33,13 @@ I plotted alcohol against malic acid and split the data into 70% training and 30
 | Decision Tree | 0.93 |
 | Logistic Regression with standardization | 1.00 |
 
+### Decision Tree
+
+The tree shows how feature thresholds separate the three wine classes.
+
+<img width="711" height="577" alt="wine_decision_tree" src="https://github.com/user-attachments/assets/99370f42-430b-48af-9ca3-137a40e0999f" />
+
+<br><br>
 Logistic Regression correctly classified all 54 test samples. Its confusion matrix was:
 
 [[19  0  0] <br>
