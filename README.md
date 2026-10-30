@@ -1,4 +1,4 @@
-## NANO706 · Assignment 2 · Rutuja S. Bhamare
+## NANO706 - Assignment 2 - Rutuja S. Bhamare
 
 *Three questions. Two notebooks. One lesson in evaluating predictions*
 
